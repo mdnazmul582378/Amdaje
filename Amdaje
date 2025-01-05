@@ -1,11 +1,83 @@
-#EXTM3U
-#EXTINF:-1, Shinchan: Bungle in the Jungle
-http://example.com/stream1
-#CATEGORY:Cartoon
-#LOGO:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyery_IWG6NVZtxiLDfftbqkyHva5XQKzbz8rYj91ux7eAce6crxZ82VA&s=10
-https://terabox.com/sharing/embed?surl=yw_HwwuNL052CCHf2Hbcyg&resolution=1080&autoplay=true&mute=false&uk=4401614939629&fid=1
+#EXTM3U 
 
-#EXTINF:-1, Channel 2
-http://example.com/stream2
-#CATEGORY:News
-#LOGO:http://example.com/logo2.png
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ln4rwXBygeF9uP10EegsLUbJYCUwdRyVffG8JBKnyHrKbfk4NSL0QgGN&s=10" group-title="Bangladesi TV", Asian tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI1OjUxIFBNJmhhc2hfdmFsdWU9TVVFa04yS3RRVFFlS21mRVZZOXEzUT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrScGuSxAkZ6XrPxFPKx5feE0E17v0bHmNktgMgi-ybovdmwFWs5pL1FU&s=10" group-title="Bangladesi TV", Atn Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI2OjM1IFBNJmhhc2hfdmFsdWU9ckdKMFk1RUVWZWJ3MTRoZ1RTdTVIZz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XHBiDZ6csLBytqkYPoJmfUVVZPlxk4QvjIGBBpbk12SiMLJK1tkn6j0z&s=10" group-title="Bangladesi TV", Atn Bangla Uk
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMwOjU2IFBNJmhhc2hfdmFsdWU9bTZ4dERadkVtem5wakRhQTk1SDdHdz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" group-title="Bangladesi TV", Atn Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMyOjA3IFBNJmhhc2hfdmFsdWU9M09zNWVlVjZwbTNLOXV1NTIweUE4dz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JPD5hztRxjfYiR5c1wNlZAY6sZiaZAkkZ6Ka9arndt2pZXDtHg_VuJI&s=10" group-title="Bangladesi TV", Atn Islamic
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMxOjQyIFBNJmhhc2hfdmFsdWU9R3M1WDBHRWg4YnVrSlAxU1JOSVE3dz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s" group-title="Bangladesi TV", Anando TV Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI0OjU0IFBNJmhhc2hfdmFsdWU9TlByNklWS0RraCt4YlpVTy9oNWlvQT09JnZhbGlkbWludXRlcz00MAy9oNWlvQT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJeP3EUwJLq8sjuc_7Nn52Gk_OJxxAMA2uc1yJxR57LHCtcfs-ku51gzj&s=10" group-title="Bangladesi TV", Atn News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMzOjEyIFBNJmhhc2hfdmFsdWU9SHlHMndsMERTRHA5SE4weEJ2QnhFUT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lPPs9QsjYWuIKuwCxclbK7Adi02DQ3PZRqYpUFGgZXKAvcaWqB0Xs9E&s=10" group-title="Bangladesi TV", B24C
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjMzOjQyIFBNJmhhc2hfdmFsdWU9Y3lidFRoL2IrbjhKT01FbHcrZ2gydz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://fyfl.short.gNadim1.jpg" group-title="Bangladesi TV", Bangla 21 HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM0OjIzIFBNJmhhc2hfdmFsdWU9a2RSQlRZVHRtODlvQlhENlJUUllyQT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hPBiCRZEwKM3BMdFnj83x-ltSSDsY3kYpfV6Vzv5fUhC1M_Z10BsovA&s=10" group-title="Bangladesi TV", Bangla vision HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM0OjUwIFBNJmhhc2hfdmFsdWU9TzJ6VTVlYk9YbXpJUFZaU2xGYXdwQT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l6c-PPJ1sgFS7b37M7GXWTsuJhHVO2eh81N2Okr6HGzQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesi TV", Bijoy Tv hd
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM2OjM0IFBNJmhhc2hfdmFsdWU9Z2pFOGtuQmRmSVE4Qk9MQVJDbVJ1UT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10" group-title="Bangladesi TV", Biswa Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM3OjEyIFBNJmhhc2hfdmFsdWU9aTFRKzhISmFKaWppQTEzZnAyRDM2dz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxonfSS_MlKMUxI_3xw3oDPnl2UabckSQgvKckAH29f5tl2MhGXZaOwM&s=10" group-title="Bangladesi TV", Boishakhi Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM3OjQ2IFBNJmhhc2hfdmFsdWU9QTIzOTgvRHlBTzExYzNhL1VEc2FMUT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://feji.us/edda3w" group-title="Bangladesi TV", BTv World
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM4OjMyIFBNJmhhc2hfdmFsdWU9a1puZDg2K1BiVFJrcERmZzJHQVU0dz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlClWrsXnqhk5d12YgXqLRCwPTFmVFy0hqj2XScnh7M1OSHEJVms7h_E&s=10" group-title="Bangladesi TV", CB 24 TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjM5OjAxIFBNJmhhc2hfdmFsdWU9ZEJtK3o5WFo2MHIyNTNLczRLTlJ3Zz09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yQ2H0v3/Picsart-24-10-21-18-58-53-027.jpg" group-title="Bangladesi TV", Somoy TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Live Cams
+https://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Big Milf
+https://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Big Dick
+https://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Big Tits
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Fetish
+https://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Pornstar
+https://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Big Ass
+https://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Interracial
+https://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Latina
+https://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", POV
+https://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Blowjob
+https://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Hardcore
+https://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Cuckold
+https://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Threesome
+https://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Russian
+https://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Lesbian
+https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Rough
+https://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Gangbang
+https://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Anal
+https://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Compilation
+https://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Brunette
+https://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Blonde
+https://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Gay
+https://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="adult" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg", Asian
+https://live.adultiptv.net/asian.m3u8
